@@ -1,1 +1,92 @@
 /** CSS STYLE **/
+@font-face {
+  font-weight: 400;
+  font-family: 'Open Sans';
+  src: url('../../fonts/OpenSans-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'Neucha';
+  src: url('../../fonts/Neucha-Regular.ttf');
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 1110px;
+  margin: 0 auto;
+}
+
+.color-white {
+  color: #fff;
+}
+
+.color-white-50 {
+  color: #d7ccc0;
+}
+
+.color-light {
+  color: #f5f4f0;
+}
+
+.color-primary {
+  color: #fe8a02;
+}
+
+.color-primary-dark {
+  color: #42413c;
+}
+
+.color-dark {
+  color: #2a2626;
+}
+
+.color-dark-50 {
+  color: #908d8b;
+}
+
+.color-brown {
+  color: #b09a81;
+}
+
+.color-blue {
+  color: #1085c5;
+}
+
+.primary-text {
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  line-height: 1.6em;
+}
+
+.h1 {
+  font-family: Neucha, sans-serif;
+  font-size: 72px;
+  line-height: 1.2em;
+}
+
+.h2 {
+  font-family: Neucha, sans-serif;
+  font-size: 60px;
+  line-height: 1.2em;
+}
+
+.h3 {
+  font-family: Neucha, sans-serif;
+  font-size: 34px;
+  line-height: 1.2em;
+}
+
+.mt-100 {
+  margin-top: 100px;
+}
+
+.mb-100 {
+  margin-bottom: 100px;
+}
+
+
+
