@@ -57,26 +57,26 @@ body {
 }
 
 .primary-text {
-  font-family: "Open Sans", sans-serif;
   font-size: 16px;
+  font-family: "Open Sans", sans-serif;
   line-height: 1.6em;
 }
 
 .h1 {
-  font-family: Neucha, sans-serif;
   font-size: 72px;
+  font-family: Neucha, sans-serif;
   line-height: 1.2em;
 }
 
 .h2 {
-  font-family: Neucha, sans-serif;
   font-size: 60px;
+  font-family: Neucha, sans-serif;
   line-height: 1.2em;
 }
 
 .h3 {
-  font-family: Neucha, sans-serif;
   font-size: 34px;
+  font-family: Neucha, sans-serif;
   line-height: 1.2em;
 }
 
@@ -87,6 +87,3 @@ body {
 .mb-100 {
   margin-bottom: 100px;
 }
-
-
-
