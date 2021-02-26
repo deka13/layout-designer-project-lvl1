@@ -31,39 +31,43 @@ p {
   position: relative;
 }
 
-.color-white {
+.bg-white {
   color: #fff;
 }
 
-.color-white-50 {
+.text-white {
+  color: #fff;
+}
+
+.text-white-50 {
   color: #d7ccc0;
 }
 
-.color-light {
+.text-light {
   color: #f5f4f0;
 }
 
-.color-primary {
+.text-orange {
   color: #fe8a02;
 }
 
-.color-primary-dark {
+.text-orange-dark {
   color: #42413c;
 }
 
-.color-dark {
+.text-dark {
   color: #2a2626;
 }
 
-.color-dark-50 {
+.text-dark-50 {
   color: #908d8b;
 }
 
-.color-brown {
+.text-brown {
   color: #b09a81;
 }
 
-.color-blue {
+.text-blue {
   color: #1085c5;
 }
 
@@ -159,4 +163,8 @@ p {
 
 .header-link:hover {
   background: #ea7600;
+}
+
+.text-align-center {
+  text-align: center;
 }
