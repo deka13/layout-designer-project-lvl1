@@ -135,6 +135,10 @@ p {
   margin-right: 30px;
 }
 
+.mb-30 {
+  margin-bottom: 30px;
+}
+
 .w-540 {
   width: 540px;
 }
@@ -167,4 +171,16 @@ p {
 
 .text-align-center {
   text-align: center;
+}
+
+.video-caption {
+  margin-bottom: 515px;
+}
+
+.video {
+  position: absolute;
+  top: 230px;
+  left: 95px;
+
+  filter: drop-shadow(0 16px 32px rgba(0, 0, 0, 0.15));
 }
