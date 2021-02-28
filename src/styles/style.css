@@ -43,16 +43,20 @@ p {
   color: #d7ccc0;
 }
 
-.text-light {
-  color: #f5f4f0;
+.bg-light {
+  background-color: #f5f4f0;
 }
 
 .text-orange {
   color: #fe8a02;
 }
 
-.text-orange-dark {
+.text-primary-dark {
   color: #42413c;
+}
+
+.bg-primary-dark {
+  background-color: #42413c;
 }
 
 .text-dark {
@@ -139,8 +143,28 @@ p {
   margin-bottom: 30px;
 }
 
+.mb-20 {
+  margin-bottom: 20px;
+}
+
+.mb-16 {
+  margin-bottom: 16px;
+}
+
+.pt-100 {
+  padding-top: 100px;
+}
+
 .w-540 {
   width: 540px;
+}
+
+.w-350 {
+  width: 350px;
+}
+
+.w-302 {
+  width: 302px;
 }
 
 .header-text {
@@ -179,8 +203,48 @@ p {
 
 .video {
   position: absolute;
-  top: 230px;
-  left: 95px;
+  top: 329px;
+  left: 14%;
 
   filter: drop-shadow(0 16px 32px rgba(0, 0, 0, 0.15));
+}
+
+.deformations-list {
+  padding: 200px 0 100px 0;
+}
+
+.deformations-caption {
+  font-size: 52px;
+  font-family: Neucha, sans-serif;
+  line-height: 1.2;
+}
+
+.deformation {
+  display: block;
+  padding: 24px;
+
+  text-decoration: none;
+}
+
+.number {
+  margin-bottom: 40px;
+
+  font-size: 64px;
+  font-family: Neucha, sans-serif;
+  line-height: 1;
+}
+
+.deformations-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.deformation:hover {
+  background-color: #fe8a02;
+}
+
+.deformation:hover > .number,
+.deformation:hover > .h3,
+.deformation:hover > .primary-text {
+  color: #fff;
 }
