@@ -63,12 +63,12 @@ p {
   color: #2a2626;
 }
 
-.text-dark-50 {
-  color: #908d8b;
-}
-
 .text-brown {
   color: #b09a81;
+}
+
+.bg-brown {
+  background-color: #b09a81;
 }
 
 .text-blue {
@@ -106,6 +106,16 @@ p {
   line-height: 1.2em;
 }
 
+.h4 {
+  padding: 5px 10px;
+
+  font-weight: bold;
+  font-size: 14px;
+  font-family: "Open Sans", sans-serif;
+  line-height: 1.2;
+  text-transform: uppercase;
+}
+
 .padding-default {
   padding: 100px 0;
 }
@@ -125,6 +135,10 @@ p {
   height: 525px;
 }
 
+.flex {
+  display: flex;
+}
+
 .flex-sb {
   display: flex;
   justify-content: space-between;
@@ -137,6 +151,10 @@ p {
 
 .mr-30 {
   margin-right: 30px;
+}
+
+.mb-100 {
+  margin-bottom: 100px;
 }
 
 .mb-30 {
@@ -247,4 +265,20 @@ p {
 .deformation:hover > .h3,
 .deformation:hover > .primary-text {
   color: #fff;
+}
+
+.ikea-effect {
+  width: 578px;
+  height: 434px;
+
+  vertical-align: middle;
+
+  filter: drop-shadow(0 16px 32px rgba(0, 0, 0, 0.15));
+}
+
+.deformations-dark {
+  color: #908d8b;
+  font-size: 24px;
+  font-family: Neucha, sans-serif;
+  line-height: 1.2;
 }
