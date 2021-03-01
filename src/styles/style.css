@@ -296,3 +296,75 @@ p {
   font-family: Neucha, sans-serif;
   line-height: 1.2;
 }
+
+.subscribe {
+  width: 1000px;
+  padding: 40px 55px;
+}
+
+.subscribe-text {
+  margin-top: 15px;
+}
+
+.label {
+  display: block;
+  margin-bottom: 10px;
+
+  color: #fff;
+  font-size: 18px;
+  font-family: "Open Sans", sans-serif;
+  line-height: 1.6em;
+}
+
+.email-input {
+  width: 385px;
+  height: 20px;
+  padding: 15px;
+  border: none;
+}
+
+.email-input::placeholder {
+  color: #757575;
+  font-size: 13px;
+  font-family: "Open Sans", sans-serif;
+  line-height: 1.6;
+
+  opacity: 0.2;
+}
+
+.submit {
+  width: 70px;
+  height: 50px;
+  margin: 0;
+  padding: 0;
+  border: none;
+
+  background-color: #fe8a02;
+  cursor: pointer;
+}
+
+.submit:hover {
+  background-color: #ea7600;
+}
+
+.btn-wrapper::before {
+  position: absolute;
+  top: 30%;
+  left: 30%;
+
+  width: 22px;
+  height: 22px;
+
+  background-image: url("../../images/send.svg");
+  background-repeat: no-repeat;
+  background-position: 0 0;
+
+  content: "";
+}
+
+.service-rules {
+  color: #fff;
+  font-size: 12px;
+  font-family: "Open Sans", sans-serif;
+  line-height: 1.6em;
+}
