@@ -132,7 +132,7 @@ p {
 }
 
 .padding-default {
-  padding: 100px 0 105px 0;
+  padding: 100px 0 103px 0;
 }
 
 .bg-default-image {
@@ -143,7 +143,7 @@ p {
 
 .header-image {
   position: absolute;
-  top: 46px;
+  top: 50px;
   right: -164px;
 
   height: 525px;
@@ -235,13 +235,13 @@ p {
 
 .video-caption {
   margin-top: 30px;
-  margin-bottom: 510px;
+  margin-bottom: 505px;
 }
 
 .video {
   position: absolute;
   top: 322px;
-  left: 210px;
+  left: 20%;
 
   border: none;
 
