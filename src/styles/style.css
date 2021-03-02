@@ -204,13 +204,13 @@ p {
 }
 
 .header-text {
-  margin-top: 190px;
+  margin-top: 192px;
 }
 
 .header-link {
   display: block;
   width: 148px;
-  margin-top: 36px;
+  margin-top: 32px;
   margin-left: 570px;
   padding: 12px 0;
 
@@ -234,7 +234,8 @@ p {
 }
 
 .video-caption {
-  margin-bottom: 515px;
+  margin-top: 22px;
+  margin-bottom: 504px;
 }
 
 .video {
