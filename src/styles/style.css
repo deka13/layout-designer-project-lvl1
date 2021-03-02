@@ -89,6 +89,14 @@ p {
   line-height: 1.6em;
 }
 
+#premature-optimization h2 {
+  margin-bottom: 0;
+
+  font-size: 60px;
+  font-family: Neucha, sans-serif;
+  line-height: 1.2em;
+}
+
 .h1 {
   margin: 0;
 
@@ -175,6 +183,10 @@ p {
   margin-bottom: 16px;
 }
 
+.mt-30 {
+  margin-top: 30px;
+}
+
 .pt-100 {
   padding-top: 100px;
 }
@@ -229,6 +241,8 @@ p {
   position: absolute;
   top: 329px;
   left: 14%;
+
+  border: none;
 
   filter: drop-shadow(0 16px 32px rgba(0, 0, 0, 0.15));
 }
