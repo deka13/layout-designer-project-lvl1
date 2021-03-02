@@ -204,7 +204,7 @@ p {
 }
 
 .header-text {
-  margin-top: 192px;
+  margin-top: 196px;
 }
 
 .header-link {
@@ -234,14 +234,14 @@ p {
 }
 
 .video-caption {
-  margin-top: 22px;
-  margin-bottom: 504px;
+  margin-top: 30px;
+  margin-bottom: 515px;
 }
 
 .video {
   position: absolute;
   top: 322px;
-  left: 14%;
+  left: 182px;
 
   border: none;
 
