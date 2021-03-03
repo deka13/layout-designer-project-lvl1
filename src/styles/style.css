@@ -235,12 +235,12 @@ p {
 
 .video-caption {
   margin-top: 30px;
-  margin-bottom: 505px;
+  margin-bottom: 500px;
 }
 
 .video {
   position: absolute;
-  top: 330px;
+  top: 325px;
   left: 50%;
 
   margin-left: -459.5px;
