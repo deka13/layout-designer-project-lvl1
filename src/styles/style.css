@@ -47,6 +47,10 @@ p {
   background-color: #f5f4f0;
 }
 
+.bg-light-op-90 {
+  background-color: rgba(244, 244, 240, 0.1);
+}
+
 .text-orange {
   color: #fe8a02;
 }
@@ -143,7 +147,7 @@ p {
 
 .header-image {
   position: absolute;
-  top: 50px;
+  top: 55px;
   right: -164px;
 
   height: 525px;
@@ -210,7 +214,7 @@ p {
 .header-link {
   display: block;
   width: 148px;
-  margin-top: 35px;
+  margin-top: 40px;
   margin-left: 570px;
   padding: 12px 0;
 
@@ -235,12 +239,12 @@ p {
 
 .video-caption {
   margin-top: 30px;
-  margin-bottom: 510px;
+  margin-bottom: 507px;
 }
 
 .video {
   position: absolute;
-  top: 322px;
+  top: 330px;
   left: 50%;
 
   margin-left: -460px;
