@@ -47,10 +47,6 @@ p {
   background-color: #f5f4f0;
 }
 
-.bg-light-op-90 {
-  background-color: rgba(244, 244, 240, 0.1);
-}
-
 .text-orange {
   color: #fe8a02;
 }
@@ -239,7 +235,7 @@ p {
 
 .video-caption {
   margin-top: 30px;
-  margin-bottom: 507px;
+  margin-bottom: 505px;
 }
 
 .video {
@@ -247,7 +243,7 @@ p {
   top: 330px;
   left: 50%;
 
-  margin-left: -460px;
+  margin-left: -459.5px;
 
   border: none;
 
