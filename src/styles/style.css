@@ -210,7 +210,7 @@ p {
 .header-link {
   display: block;
   width: 148px;
-  margin-top: 32px;
+  margin-top: 35px;
   margin-left: 570px;
   padding: 12px 0;
 
@@ -235,13 +235,15 @@ p {
 
 .video-caption {
   margin-top: 30px;
-  margin-bottom: 505px;
+  margin-bottom: 510px;
 }
 
 .video {
   position: absolute;
   top: 322px;
-  left: 20%;
+  left: 50%;
+
+  margin-left: -460px;
 
   border: none;
 
